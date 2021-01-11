@@ -1,0 +1,26 @@
+   
+    body{
+       font-family:'Questrial', sans-serif;
+    }
+    .panda-card{
+        border: 0px;
+    }
+    .panda-card-footer{
+       background-color:white;
+       border: 0px;
+    }
+    .catagories img{
+       height: 100px;
+       border-radius: 15px;
+    }
+    .panda-slide{
+        background-color:#fceae8;
+        border-radius: 20px;
+    }
+    .panda-form{
+        background-color:#fceae8;
+    }
+    .panda-nav{
+        margin-bottom: 70px;
+    }
+    
